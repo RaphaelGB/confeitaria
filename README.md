@@ -1,4 +1,4 @@
-# PROJETOCSS1
+# Confeitaria - CSS
 
 Atividade para a matéria de programação Web I, no qual foi-se feita uma confeitaria baseado em um modelo disponibilizado em aula usando HTML E CSS
 
